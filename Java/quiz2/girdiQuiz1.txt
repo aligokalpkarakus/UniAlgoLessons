@@ -1,0 +1,5 @@
+Ali Tunc,1234,Pazarlama,Mudur
+Can Tuz,2164,Muhasebe,Mudur Yardimcisi
+Ayse Demir,1675,IT,Programci
+Default
+Veli Gun,1565,IT,Analist Programci

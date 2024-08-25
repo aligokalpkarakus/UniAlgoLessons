@@ -1,0 +1,8 @@
+1971,Otomatik Portakal, Dram, Stanley Kubrick, {(Steven Berkoff, Erkek, Ingiltere)}
+1980,Fonye, qwe, sdf, {(sdf, xcv, gdf)}
+1997,Seytanin Avukati, Gerilim, Taylor Hackford, {(Keanu Reeves, Erkek, Kanada)(Al Pacino, Erkek, ABD)}
+1997,Titanic, Romantik, James Cameron, {(Leonardo DiCaprio, Erkek, ABD)(Kate Winslet, Kadın, Ingiltere)}
+1997,Yuz Yuze, Bilim Kurgu, John Woo, {(Nicolas Cage, Erkek, ABD)(Dominique Swain, Kadin, ABD)}
+2000,we, fd, bvc, {(dfg, cbv, gdf)(dgf, cvb, dfg)}
+2005,sd, dfg, vcb, {(dfg, vbc, gdf)(dfg, vcb, dfg)(we, dfg, w)}
+2014,Inanilmaz Orumcek Adam - 2, Aksiyon, Marc Webb, {(Andrew Garfield, Erkek, ABD)(Emma Stone, Kadin, ABD)}
